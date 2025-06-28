@@ -1,0 +1,51 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    background-color: #fce7b2;
+}
+
+.calendar-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.image-container {
+    width: 200px;
+    height: 200px;
+}
+
+.image-container img {
+    width: 100%;
+    height: auto;
+}
+
+.date-number {
+    font-size: 2rem;
+    font-weight: 600;
+    margin: 10px 0;
+}
+
+table {
+    border-collapse: collapse;
+    margin-top: 10px;
+    font-weight: 400;
+}
+
+td, th {
+    padding: 10px;
+    min-width: 30px;
+    text-align: center;
+}
+
+.sunday {
+    color: red;
+}
+
+.highlight {
+    border: 2px solid #ffa200;
+    border-radius: 20px;
+    font-weight: 600;
+}
+
