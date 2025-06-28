@@ -59,7 +59,7 @@ That’s it — the calendar will show the current month and highlight today's d
 ## 📸 Preview 
 
 
-![Preview](https://raw.githubusercontent.com/Blueberry221/Blue-Archive-Calendar/main/preview.png)
+![Oji-san Calendar Preview](preview.png)
 
 
 ---
